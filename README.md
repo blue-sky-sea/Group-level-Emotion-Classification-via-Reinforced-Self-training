@@ -35,3 +35,20 @@ other two participants just wear VR headset and talk
 Each conversation lasted approximately three minutes
 #### Topics:
 Talk about specific topics that are likely to cause emotional fluctuations or produce opposing positions
+Talk about a recent sad thing悲伤的事情  
+Talk about the biggest worry担忧的事情  
+Talk about the things that make u angry让人生气的事情  
+Talk about the things that make people shy and embarrassed让人脸红/尴尬的事情  
+Talk about the disgusting things that make you sick 讨论让人感到恶心不爽的事情
+Talk about a happy thing开心的事情  
+Talk about your hobby兴趣爱好  
+Talk about the places you would most like to visit最想去旅游的地方
+Talk about the type you like喜欢的类型  
+Talk about your dream or future plan谈论你的梦想或者未来规划  
+Talk about your research or project谈论你的研究或者项目  
+Whether to agree with Dink？Why？同意丁克吗，为什么  
+
+
+3.Talk about the things that make u angry让人生气的事情
+#### Emotion model
+PAD (Pleasure, Arousal, Dominance) model
