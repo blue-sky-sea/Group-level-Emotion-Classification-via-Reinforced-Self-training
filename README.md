@@ -52,3 +52,28 @@ Whether to agree with Dink？Why？同意丁克吗，为什么
 3.Talk about the things that make u angry让人生气的事情
 #### Emotion model
 PAD (Pleasure, Arousal, Dominance) model
+
+## To solve
+
+#### 为什么要VR
+
+虚拟空间/虚拟会议/虚拟人/智能agent
+智能主持会议、改变场景氛围提升体验感、介入对话以把控对话节奏、控制用户的负面情绪（对负面情绪用户进行关怀）、在task中把控参与者的对话情绪和对话氛围并给予适当提示
+
+#### 为什么要对话氛围
+
+对话氛围作为一种群体对话度量，是主观者对于整体的主观评价
+我们打算发掘群体对话氛围和个人情感/生体情报之间的联系，
+以考虑是否利用结合对话氛围维度和个人情感维度来提高虚拟空间对话的顺滑性
+并加强虚拟空间的对话体验
+
+包括一个Individual classifier
+和一个Group classifier
+
+
+## Our research
+1.考虑不同虚拟环境下进行不同情感诱发对话后，生体情报的表现是否有所不同
+（不同MIPs/attention等对HRV的影响）
+attention似乎又和视线有关联
+
+2.考虑新的强化学习模型来抽出个人差异
