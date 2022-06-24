@@ -71,5 +71,7 @@ Dialogue atmosphere is a metric used to describe group-level interactions，whic
 ## Experiment Design
 
 
-![image](https://user-images.githubusercontent.com/26008298/175459542-99416628-b7be-430f-be25-11bc93b64de7.png)
+![image](https://user-images.githubusercontent.com/26008298/175459542-99416628-b7be-430f-be25-11bc93b64de7.png)  
 
+## Experiment Schedule
+![image](https://user-images.githubusercontent.com/26008298/175459710-ff16b530-cf69-4324-8133-b99853e133e6.png)  
