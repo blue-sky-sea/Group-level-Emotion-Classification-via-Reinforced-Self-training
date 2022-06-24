@@ -66,9 +66,10 @@ to help conversation on those online virtual world platforms
   
 Dialogue atmosphere is a metric used to describe group-level interactions，which is different from individual emotion   
 
-x![image](https://user-images.githubusercontent.com/26008298/175459385-0af61f3d-3281-4470-bc40-1ed7ae706b6d.png)
+![image](https://user-images.githubusercontent.com/26008298/175459385-0af61f3d-3281-4470-bc40-1ed7ae706b6d.png)
 
 ## Experiment Design
-![image](https://user-images.githubusercontent.com/26008298/175459428-5fb01841-66a8-4214-a4e7-3c8b3d31d943.gif)
 
-attention似乎又和视线有关联
+
+![image](https://user-images.githubusercontent.com/26008298/175459542-99416628-b7be-430f-be25-11bc93b64de7.png)
+
