@@ -18,3 +18,4 @@ I use this MAIA questionnaire to confirm the accuracy of each individual's self-
 
 # NNi
 I think this should be related to the parameters I set, and the NNI will be different depending on the number of nearest neighbor points considered。
+It only consider the neaerest distances in space,but i think NNI should also consider the distances in time.
