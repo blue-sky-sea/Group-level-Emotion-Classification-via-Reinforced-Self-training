@@ -1,5 +1,5 @@
 # Why VR
-Tt's hard to estimate other people‘s mind state in VR，because sometimes they are costumed as an avater，and their expressions and movement tend to have time delay or does not match the real world. So it's hard for us to estimate emotion and dialogue atmosphere in VR. Based on VRheadset and sensors,I'd like to find a good way to estimate their mind in VR world. That's Why I want to conduct my research in VR. 
+Tt's hard to estimate other people‘s mind state in VR，because sometimes they costumed as an avater，and their expressions and movement tend to have time delay or does not match the real world. So it's hard for us to estimate emotion and dialogue atmosphere in VR. Based on VRheadset and sensors,I'd like to find a good way to estimate their mind in VR world. That's Why I want to conduct my research in VR. 
   
 # Why Atmosphere
 When I play VRchat, I find it hard to get acquainted quickly with other players in VRchat，
