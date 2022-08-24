@@ -92,3 +92,20 @@ Dialogue atmosphere is a metric used to describe group-level interactions，whic
 
 ## Related Project:VIVEEyeTracking  
 https://github.com/yamaguchi-three-KBS/VIveEyeTracking
+
+
+#Reinforcement Learning Network
+(1)State:
+	preprocessed biometric data and confidence point
+
+(2)Action:  
+	Two class, whether choose this sample or not
+
+(3)Reward:
+	Based on the model’s performance on validation set
+
+(4)Policy Network: 
+	multi-layer perception(MLP)
+	Input is State
+	Output is Action’s probability distribution
+
