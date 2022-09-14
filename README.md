@@ -109,3 +109,29 @@ https://github.com/yamaguchi-three-KBS/VIveEyeTracking
 	Input is State
 	Output is Action’s probability distribution
 
+#Motivation
+most of the existing successfule stories of deep learning are still based on supervised learnng,
+for example, object recognition,machine translation,text calssification.However, in many applications, 
+it is not realistic to obtain large amoutn ot labeled data.  
+
+#DRL
+DRL is a method that can solve human-level task.RL+DL is powerful and flexible
+
+#Chanllenges in co-training
+Choosing highly-confident self-labeled examples could be suboptimal  
+Sampling bias shift is common.
+
+#Assumption
+not all the unlabeled data are useful  
+we hope to get data in classifier boundary  
+
+#Idea
+performance-driven semi-supervised learning that learns an unlabeled data selection policy with RL,
+instead of using random sampling.
+
+#Reinforced SSL
+1.Partition the unlabeled data space  
+2.Train a RL agent to select useful unlabeled data
+3.Reward:change in accuracy on the validation set
+4.Clustering on unlabeled dataset based on the Jaccard Similarity, Partition the unlabeled dataset U into {U1,U2,...,Uk}
+5.The first added sample for each subset Uk is recorded as the representative sample
