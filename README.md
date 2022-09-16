@@ -94,7 +94,7 @@ Dialogue atmosphere is a metric used to describe group-level interactions，whic
 https://github.com/yamaguchi-three-KBS/VIveEyeTracking
 
 
-#Reinforcement Learning Network
+# Reinforcement Learning Network
 (1)State:
 	preprocessed biometric data and confidence point
 
@@ -112,7 +112,7 @@ https://github.com/yamaguchi-three-KBS/VIveEyeTracking
 #Motivation
 most of the existing successfule stories of deep learning are still based on supervised learnng,
 for example, object recognition,machine translation,text calssification.However, in many applications, 
-it is not realistic to obtain large amoutn ot labeled data.  
+it is not realistic to obtain large amount of labeled data.  
 
 #DRL
 DRL is a method that can solve human-level task.RL+DL is powerful and flexible
