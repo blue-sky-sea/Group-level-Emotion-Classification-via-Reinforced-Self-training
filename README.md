@@ -134,4 +134,9 @@ instead of using random sampling.
 2.Train a RL agent to select useful unlabeled data
 3.Reward:change in accuracy on the validation set
 4.Clustering on unlabeled dataset based on the Jaccard Similarity, Partition the unlabeled dataset U into {U1,U2,...,Uk}
-5.The first added sample for each subset Uk is recorded as the representative sample
+5.The first added sample for each subset Uk is recorded as the representative sample-
+
+#Result on SAI's confidence Dataset
+0.584 on initial accuracy  
+0.71 accuracy on 3 class classification after Reinforcement Learning
+
