@@ -114,22 +114,22 @@ most of the existing successfule stories of deep learning are still based on sup
 for example, object recognition,machine translation,text calssification.However, in many applications, 
 it is not realistic to obtain large amount of labeled data.  
 
-#DRL
+# DRL
 DRL is a method that can solve human-level task.RL+DL is powerful and flexible
 
-#Chanllenges in co-training
+# Chanllenges in co-training
 Choosing highly-confident self-labeled examples could be suboptimal  
 Sampling bias shift is common.
 
-#Assumption
+# Assumption
 not all the unlabeled data are useful  
 we hope to get data in classifier boundary  
 
-#Idea
+# Idea
 performance-driven semi-supervised learning that learns an unlabeled data selection policy with RL,
 instead of using random sampling.
 
-#Reinforced SSL
+# Reinforced SSL
 1.Partition the unlabeled data space  
 2.Train a RL agent to select useful unlabeled data
 3.Reward:change in accuracy on the validation set
