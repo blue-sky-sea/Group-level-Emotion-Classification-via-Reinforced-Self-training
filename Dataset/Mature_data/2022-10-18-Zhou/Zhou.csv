@@ -1,0 +1,9 @@
+タイムスタンプ,问卷填写人/Answerer,VR世界的名字/VR world,对话的话题/Topic,共同参与者/Collaborators(Main&aux),实验开始时间/StartTime,实验结束时间/EndTime,愉悦维度（悲伤-快乐）/Valence Dimension (Unhappy-Happy)    效价维度表示情绪的正面或者负面维度，1表示十分失望沮丧悲伤，5表示正常中性，9表示十分快乐开心,"激活维度（平静-激动）/Arousal Dimension (Calm-Excited)    激活维度代表中枢神经系统的一般激活程度,表现为警觉性和反应意愿等，1代表平静无反应，5表示普通水准，9表示十分激动警觉性极强",支配维度（压抑受控-自如自在）/Dominance Dimension (Contolled-Incontrol)    支配维度表示自己影响周围事物和环境的能力，1表示容易受环境影响受到了压抑，5表示正常，9表示感觉自己能支配周围事物并影响他人,热烈激情的Excite-停滞无趣的Not Excite,严肃认真的Serious-轻松随意的Not Serious,柔和顺畅的Smooth-尴尬无语的Not Smooth,明朗欢快的Bright-阴暗沉闷的Not Bright,令人安心的Eminent-感到不安的Not Eminent,亲密亲近的Close-立场不同的Not Close,对等的Equal-疏远的Not Equal
+2022/10/18 4:20:20 午後 GMT+9,Zhou,Forest,relax,Zhou,13:45:00,13:48:00,7,6,3,3,3,3,3,3,3,3
+2022/10/18 4:20:20 午後 GMT+9,Zhou,Forest,talkhobby,"Zhou,Sai",13:53:00,13:56:00,6,6,5,2,4,3,3,2,2,1
+2022/10/18 4:20:20 午後 GMT+9,Zhou,BloodMemory,disgust,Zhou,14:00:00,14:03:00,5,3,7,3,3,3,3,3,3,3
+2022/10/18 4:20:20 午後 GMT+9,Zhou,BloodMemory,talksad,"Zhou,Sai",14:08:00,14:11:00,7,3,2,3,2,4,3,4,2,4
+2022/10/18 4:20:20 午後 GMT+9,Zhou,GhostWorld,fear,Zhou,14:25:00,14:30:00,3,8,2,3,3,3,3,3,3,3
+2022/10/18 4:20:20 午後 GMT+9,Zhou,GhostWorld,play,"Zhou,Liu",14:32:00,14:37:00,3,8,3,2,4,4,3,4,2,2
+2022/10/18 4:20:20 午後 GMT+9,Zhou,Christmas,happy,Zhou,14:46:00,14:49:00,9,3,3,3,3,3,3,3,3,3
+2022/10/18 4:20:20 午後 GMT+9,Zhou,Christmas,talkhappy,"Zhou,Sai",14:58:00,15:01:00,7,2,3,2,4,4,2,2,4,4

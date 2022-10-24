@@ -1,0 +1,9 @@
+タイムスタンプ,问卷填写人/Answerer,VR世界的名字/VR world,对话的话题/Topic,共同参与者/Collaborators(Main&aux),实验开始时间/StartTime,实验结束时间/EndTime,愉悦维度（悲伤-快乐）/Valence Dimension (Unhappy-Happy)    效价维度表示情绪的正面或者负面维度，1表示十分失望沮丧悲伤，5表示正常中性，9表示十分快乐开心,"激活维度（平静-激动）/Arousal Dimension (Calm-Excited)    激活维度代表中枢神经系统的一般激活程度,表现为警觉性和反应意愿等，1代表平静无反应，5表示普通水准，9表示十分激动警觉性极强",支配维度（压抑受控-自如自在）/Dominance Dimension (Contolled-Incontrol)    支配维度表示自己影响周围事物和环境的能力，1表示容易受环境影响受到了压抑，5表示正常，9表示感觉自己能支配周围事物并影响他人,热烈激情的Excite-停滞无趣的Not Excite,严肃认真的Serious-轻松随意的Not Serious,柔和顺畅的Smooth-尴尬无语的Not Smooth,明朗欢快的Bright-阴暗沉闷的Not Bright,令人安心的Eminent-感到不安的Not Eminent,亲密亲近的Close-立场不同的Not Close,对等的Equal-疏远的Not Equal
+2022/10/12 2:00:20 午後 GMT+9,Yushan,forest,relax,Yushan,13:52:00,13:55:00,5,5,6,3,3,3,3,3,3,3
+2022/10/12 2:00:20 午後 GMT+9,Yushan,forest,daily,"Yushan,Yang",13:58:00,14:00:20,5,3,5,4,4,2,3,3,3,1
+2022/10/12 2:00:20 午後 GMT+9,Yushan,JustRain,sad,Yushan,14:07:00,14:10:00,3,5,2,3,3,3,3,3,3,3
+2022/10/12 2:00:20 午後 GMT+9,Yushan,JustRain,sadthing,"Yushan,Yang",14:11:30,14:14:30,6,7,5,2,4,2,2,3,3,1
+2022/10/12 2:00:20 午後 GMT+9,Yushan,GhostWorld,fear,Yushan,14:21:00,14:24:00,2,6,2,3,3,3,3,3,3,3
+2022/10/12 2:00:20 午後 GMT+9,Yushan,GhostWorld,talkVR,"Yushan,Yang",14:25:00,14:28:00,6,6,6,2,5,2,1,2,3,1
+2022/10/12 2:00:20 午後 GMT+9,Yushan,Water Park,happy,Yushan,14:31:00,14:35:00,7,6,5,3,3,3,3,3,3,3
+2022/10/12 2:00:20 午後 GMT+9,Yushan,Water Park,talksea,"Yushan,Yang",14:37:00,14:40:00,5,4,5,3,5,2,3,2,3,1
