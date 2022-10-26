@@ -128,7 +128,7 @@ we hope to get data in classifier boundary
 # Idea
 performance-driven semi-supervised learning that learns an unlabeled data selection policy with RL,
 instead of using random sampling.
-
+Few-shot Learning for lack of data collected from 3 minute experiment
 # Reinforced SSL
 1.Partition the unlabeled data space  
 2.Train a RL agent to select useful unlabeled data
