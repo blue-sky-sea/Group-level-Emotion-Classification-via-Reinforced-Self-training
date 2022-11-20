@@ -140,3 +140,8 @@ Few-shot Learning for lack of data collected from 3 minute experiment
 0.584 on initial accuracy  
 0.71 accuracy on 3 class classification after Reinforcement Learning
 
+| N | Target | SVM | SVM+RSL |
+|  :----:   | :----: | :----: | :----: |
+| MizukiYuta	 | Valence| 0.681 0.698| 0.722 0.731 |
+| MizukiYuta	 | Arousal| 0.728  0.735| 0.768 0.774 |
+| MizukiYuta	 | Dominance| 0.749 0.711 | 0.781 0.754|
