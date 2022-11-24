@@ -148,7 +148,7 @@ Few-shot Learning for lack of data collected from 3 minute experiment
 
 
 | N | Target | SVM | 
-|  :----:   | :----: | :----: | :----: |
+|  :----:   | :----: | :----: | 
 | Sui	 | Valence| 0.556 0.598| 
 | Sui	 | Arousal| 0.548  0.564| 
 | Sui	 | Dominance| 0.649 0.685 |
