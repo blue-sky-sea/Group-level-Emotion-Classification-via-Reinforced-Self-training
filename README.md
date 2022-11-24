@@ -145,3 +145,16 @@ Few-shot Learning for lack of data collected from 3 minute experiment
 | MizukiYuta	 | Valence| 0.681 0.698| 0.722 0.731 |
 | MizukiYuta	 | Arousal| 0.728  0.735| 0.768 0.774 |
 | MizukiYuta	 | Dominance| 0.749 0.711 | 0.781 0.754|
+
+
+| N | Target | SVM | 
+|  :----:   | :----: | :----: | :----: |
+| Sui	 | Valence| 0.556 0.598| 
+| Sui	 | Arousal| 0.548  0.564| 
+| Sui	 | Dominance| 0.649 0.685 |
+| Wa	 | Valence| 0.541 0.502| 
+| Wa	 | Arousal| 0.702  0.736| 
+| Wa	 | Dominance| 0.731 0.780 |
+| Xiao	 | Valence| 0.525 0.520| 
+| Xiao	 | Arousal| 0.721  0.739| 
+| Xiao	 | Dominance| 0.656 0.683 |
